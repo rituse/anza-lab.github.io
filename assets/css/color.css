@@ -130,7 +130,7 @@ h4 a:hover {
 	color: #fa346d;
 }
 
-.main-header.style-four .menu-area .mobile-nav-toggler .icon-bar {
+.main-header.style-three .menu-area .mobile-nav-toggler .icon-bar {
 	background: #406AB0;
 }
 
@@ -504,11 +504,6 @@ h4 a:hover {
 
 .theme-btn.style-seven {
 	background-image: linear-gradient(to right, #582ead 0%, #952ed0 50%, #582ead 100%);
-}
-
-.banner-style-three .content-box h1,
-.banner-style-three .content-box p {
-	color: #fff;
 }
 
 .technology-block-one .inner-box .icon-box i {

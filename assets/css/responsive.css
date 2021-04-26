@@ -523,18 +523,8 @@
   }
 
   .main-header.style-three .menu-area .mobile-nav-toggler {
-    margin-top: 53px;
+    margin-top: 23px;
     margin-left: 10px;
-  }
-
-  .banner-style-three .pattern-layer {
-    height: 50%;
-    padding-top: 0;
-  }
-
-  .banner-style-three .content-box h1,
-  .banner-style-three .content-box p {
-    color: #fff;
   }
 
   .main-header.style-three .search-box-outer .search-btn:before {
@@ -978,10 +968,6 @@
     padding: 0px 30px;
   }
 
-  .banner-style-three .content-box {
-    margin-right: 0px;
-  }
-
   .main-header .language,
   .main-header .search-box-outer {
     float: none;
@@ -1162,7 +1148,19 @@
   }
 
   .banner-style-three {
-    padding: 160px 0px 100px 0px;
+    padding: 75px 0px 0px;
+  }
+
+  .banner-style-three .owl-carousel .item {
+    height: calc(70vh - 75px);
+  }
+
+  .owl-carousel .item .cover .header-content h1 {
+    font-size: 36px;
+  }
+
+  .owl-carousel .item .cover .header-content h2 {
+    font-size: 28px;
   }
 
   .technology-section {
