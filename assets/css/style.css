@@ -471,7 +471,7 @@
 	position: relative;
 	width: 100%;
 	text-align: center;
-	padding: 158px 0px;
+	padding: 26.5% 0px;
 	border-radius: 5px;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -2715,7 +2715,7 @@
 .chooseus-section {
 	position: relative;
 	background: #fff;
-	padding: 125px 0px 130px 0px;
+	padding: 30px 0px 30px 0px;
 }
 
 .chooseus-section .sec-title {
@@ -2725,7 +2725,7 @@
 #video_block_01 .video-inner {
 	position: relative;
 	width: 100%;
-	padding: 175px 0px 130px 0px;
+	padding: 27% 0;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -3510,11 +3510,11 @@
 
 .banner-style-three {
 	background: #406AB0;
-	padding-top: 77px;
+	padding-top: 57px;
 }
 
 .banner-style-three .owl-carousel .item {
-	height: calc(50vh - 77px);
+	height: calc(50vh - 57px);
 	min-height: 400px;
 	position: relative;
 }
@@ -4152,7 +4152,7 @@
 
 .case-style-three {
 	position: relative;
-	padding: 125px 0px 130px 0px;
+	padding: 70px 0px 30px 0px;
 }
 
 .case-style-three .case-block-two .inner-box {
@@ -5033,7 +5033,7 @@
 
 .service-style-three {
 	position: relative;
-	padding: 150px 0px 125px 0px;
+	padding: 70px 0px 55px 0px;
 }
 
 .service-block-three .inner-box {
@@ -5088,7 +5088,7 @@
 }
 
 .service-block-three .inner-box .image-box img {
-	width: auto;
+	width: 100%;
 	transition: all 500ms ease;
 }
 
@@ -5293,7 +5293,7 @@
 
 .about-style-four {
 	position: relative;
-	padding: 170px 0px 130px 0px;
+	padding: 70px 0px 30px 0px;
 }
 
 .about-style-four .pattern-layer {
@@ -6780,7 +6780,7 @@ h3 a {
 
 .service-style-four {
 	position: relative;
-	padding: 125px 0px 130px 0px;
+	padding: 70px 0px 30px 0px;
 }
 
 .service-style-four .inner-content {
@@ -6872,6 +6872,7 @@ h3 a {
 .service-block-four .inner-box .image-box img {
 	position: relative;
 	margin: 0px;
+	width: 100%;
 }
 
 .service-block-four .inner-box h3 {
@@ -8802,7 +8803,7 @@ h3 a {
 
 .info-section.alternate-2 {
 	position: relative;
-	padding: 125px 0px 130px 0px;
+	padding: 70px 0px 80px 0px;
 }
 
 .info-section.alternate-2 .inner-container .info-inner {
@@ -8842,7 +8843,7 @@ h3 a {
 
 .contact-section.alternate-2 {
 	position: relative;
-	padding-bottom: 130px;
+	padding-bottom: 30px;
 }
 
 .contact-section .pattern-layer {
@@ -8892,7 +8893,7 @@ h3 a {
 
 .service-section-five {
 	position: relative;
-	padding: 125px 0px 100px 0px;
+	padding: 70px 0px 30px 0px;
 }
 
 .service-block-five {
